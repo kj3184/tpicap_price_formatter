@@ -12,7 +12,7 @@ To execute this project as jar file , refer below steps.
 4) To access web application, open http://localhost:8090/tpicap/home/inputform in your browser.
 
 The important things to note down
-A. WebcontextPath= /tpicap
-B. Web Application port=8090
-C. Request Mapping for Main Servlet= /home
-D. Request mapping for input form= /inputform
+A) WebcontextPath= /tpicap
+B) Web Application port=8090
+C) Request Mapping for Main Servlet= /home
+D) Request mapping for input form= /inputform
