@@ -9,3 +9,10 @@ To execute this project as jar file , refer below steps.
 2) Open terminal/command window, traverse to the directory location
 3) Run Spring Boot app with java -jar command in terminal or command window. 
    java -jar price-formatter-0.0.1-SNAPSHOT.jar
+4) To access web application, open http://localhost:8090/tpicap/home/inputform in your browser.
+
+The important things to note down
+#WebcontextPath= /tpicap
+#Web Application port=8090
+#Request Mapping for Main Servlet= /home
+#Request mapping for input form= /inputform
